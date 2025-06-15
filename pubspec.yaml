@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  camera: ^0.10.5+2
-  speech_to_text: ^6.4.0
+  camera: ^0.11.1
+  speech_to_text: ^7.0.0
   path_provider: ^2.1.2
   path: ^1.9.0
 
@@ -26,4 +26,8 @@ flutter:
 
   assets:
     - assets/images/recyclable.png
-    - assets/images/recyclable (345).jpg
+    - assets/images/E-waste.png
+    - assets/images/General waste.png
+    - assets/images/organic.png
+    - assets/images/Harzadous.png
+   
