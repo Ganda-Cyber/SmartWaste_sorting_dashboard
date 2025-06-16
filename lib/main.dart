@@ -32,9 +32,9 @@ class WasteDashboard extends StatelessWidget {
   final List<WasteCategory> categories = [
     WasteCategory("Recyclable", "Bottles, paper, cans", Icons.recycling, Colors.green, "assets/images/recyclable.png"),
     WasteCategory("Organic", "Food waste, plants", Icons.eco, Colors.brown, "assets/images/organic.png"),
-    WasteCategory("Hazardous", "Batteries, chemicals", Icons.warning, Colors.red, "assets/images/Harzadous.png"),
-    WasteCategory("E-Waste", "Phones, appliances", Icons.devices, Colors.blue, "assets/images/E-waste.png"),
-    WasteCategory("General", "Wrappers, dirty tissues", Icons.delete, Colors.grey, "assets/images/General waste.png"),
+    WasteCategory("Hazardous", "Batteries, chemicals", Icons.warning, Colors.red, "assets/images/hazardous.png"),
+    WasteCategory("E-Waste", "Phones, appliances", Icons.devices, Colors.blue, "assets/images/e_waste.png"),
+    WasteCategory("General", "Wrappers, dirty tissues", Icons.delete, Colors.grey, "assets/images/general_waste.png"),
   ];
 
   @override

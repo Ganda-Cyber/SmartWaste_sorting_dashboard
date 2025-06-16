@@ -1,6 +1,6 @@
 name: waste_sorting_dashboard
 description: "A new Flutter project."
-version: 1.0.0+1   # <-- ADD THIS LINE (important!)
+version: 1.0.0+1
 
 environment:
   sdk: '^3.7.0'
@@ -19,15 +19,17 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  
+
 flutter:
   uses-material-design: true
 
 
   assets:
     - assets/images/recyclable.png
-    - assets/images/E-waste.png
-    - assets/images/General waste.png
+    - assets/images/e_waste.png
+    - assets/images/general_waste.png
     - assets/images/organic.png
-    - assets/images/Harzadous.png
-   
+    - assets/images/hazardous.png
+
+
+
