@@ -1,7 +1,7 @@
 'use strict';
 const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
-const CACHE_NAME = ' smartwaste-cache-2025-06';
+const CACHE_NAME = 'smartwaste-cache-v1';
 
 
 const RESOURCES = {"assets/AssetManifest.bin": "387fbae0a7c098feb2a8d88510cc4192",
