@@ -1,7 +1,8 @@
 'use strict';
 const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
-const CACHE_NAME = ' https://ganda-cyber.github.io/SmartWaste_sorting_dashboard/';
+const CACHE_NAME = ' smartwaste-cache-2025-06';
+';
 
 const RESOURCES = {"assets/AssetManifest.bin": "387fbae0a7c098feb2a8d88510cc4192",
 "assets/AssetManifest.bin.json": "840c60fb57649630382d22f0f2d462a8",
